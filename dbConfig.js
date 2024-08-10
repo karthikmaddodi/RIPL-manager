@@ -3,7 +3,7 @@ const sql = require('mssql');
 
 const dbConfig = {
     user: 'admin',
-    password: 'pass1234',
+    password: 'sap@123',
     server: 'localhost',
     database: 'ProjectManagementDB',
     options: {
